@@ -13,9 +13,11 @@
 </div>
 
 ## 📋 Table of Contents
+>>>>>>>>>>>>>>>>>>>>>>>> [🏗️ Architecture](https://github.com/SmartCampusHub/.github/blob/main/ARCHITECTURE.md) <<<<<<<<<<<<<<<<<<<<<<<<
 
+- 
 - [🌟 Overview](#-overview)
-- [🏗️ Architecture](#️-architecture)
+- [🏗️ Server Architecture](#️-architecture)
 - [📦 Project Structure](#-project-structure)
 - [🚀 Quick Start](#-quick-start)
 - [🔧 Technology Stack](#-technology-stack)
