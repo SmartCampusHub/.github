@@ -15,7 +15,7 @@
 ## 📋 Table of Contents
 
 - [🌟 Overview](#-overview)
-- [🏗️ Architecture](#️-architecture)
+- [🏗️ Architecture](#️https://github.com/SmartCampusHub/.github/blob/main/ARCHITECTURE.md)
 - [📦 Project Structure](#-project-structure)
 - [🚀 Quick Start](#-quick-start)
 - [🔧 Technology Stack](#-technology-stack)
