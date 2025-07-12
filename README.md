@@ -443,5 +443,4 @@ MYSQL_ROOT_PASSWORD=secure-password
 [📧 Contact Us](mailto:team@campushub.dev) | [🐛 Report Bug](https://github.com/activity-group3/fe-full/issues) | [💡 Request Feature](https://github.com/activity-group3/fe-full/issues)
 
 </div>
-#   . g i t h u b  
- 
+#
