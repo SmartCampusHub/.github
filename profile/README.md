@@ -12,7 +12,7 @@
 
 </div>
 
-## 📋 Table of Contents Featured: [🏗 System Architecture](https://github.com/SmartCampusHub/.github/blob/main/ARCHITECTURE.md)
+## 📋 Table of Contents Featured: [System Architecture](https://github.com/SmartCampusHub/.github/blob/main/ARCHITECTURE.md)
  
 
 - [🌟 Overview](#-overview)
