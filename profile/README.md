@@ -16,6 +16,7 @@
  
 
 - [🌟 Overview](#-overview)
+- [🌟 Diagram](https://dbdiagram.io/d/ttcs-678df7306b7fa355c36580a7)
 - [🏗️ Server Architecture](#️-architecture)
 - [📦 Project Structure](#-project-structure)
 - [🚀 Quick Start](#-quick-start)
